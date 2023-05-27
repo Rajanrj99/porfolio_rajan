@@ -18,7 +18,7 @@
 
 .container {
     display: flex;
-    background-image: url("/images/bg.jpg");
+    background-image: url("../images/bg.jpg");
 }
 
 /* ham-burger menu css */
