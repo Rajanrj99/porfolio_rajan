@@ -1,17 +1,17 @@
 @font-face {
     font-family: new;
-    src: url("/fonts/AnandaBlackPersonalUseRegular-rg9Rx.ttf");
+    src: url("../fonts/AnandaBlackPersonalUseRegular-rg9Rx.ttf");
     /*linking dowloaded fonts */
 }
 
 @font-face {
     font-family: new1;
-    src: url("/fonts/GoldenbeachpersonaluseBdit-jEgDM.otf");
+    src: url("../fonts/GoldenbeachpersonaluseBdit-jEgDM.otf");
     /*linking dowloaded fonts */
 }
 
 :root {
-    --background-image: url("/images/projects.jpg");
+    --background-image: url("../images/projects.jpg");
 }
 
 * {
