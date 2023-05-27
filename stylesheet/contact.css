@@ -214,5 +214,8 @@ textarea {
         width: 100vw;
         
     }
+    .btn{
+        width:30vw;
+    }
     
 }
